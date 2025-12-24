@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="458ecead-bd76-4240-bd1b-f2eabc50c467" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/第四章、Memory/3、ChatMessageHistory.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章、Memory/4、ConversationBufferMemory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章、Memory/2、不使用Memory如何拥有记忆？.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第四章、Memory/2、不使用Memory如何拥有记忆？.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="36VdSGtvSupuDee3UvByjr1viCr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/自学课程合集/尚硅谷b站LangChain资料/自己写的代码&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;通义灵码&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="458ecead-bd76-4240-bd1b-f2eabc50c467" name="更改" comment="" />
+      <created>1765095670634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765095670634</updated>
+      <workItem from="1765095671960" duration="4279000" />
+      <workItem from="1765360785950" duration="333000" />
+      <workItem from="1765361149438" duration="4314000" />
+      <workItem from="1765408430327" duration="35000" />
+      <workItem from="1765408793726" duration="6470000" />
+      <workItem from="1765680367569" duration="4399000" />
+      <workItem from="1765695372645" duration="670000" />
+      <workItem from="1765696061744" duration="3096000" />
+      <workItem from="1765699208723" duration="408000" />
+      <workItem from="1765699688917" duration="5194000" />
+      <workItem from="1765872777058" duration="730000" />
+      <workItem from="1766301363208" duration="1465000" />
+      <workItem from="1766323575492" duration="38000" />
+      <workItem from="1766551393945" duration="12847000" />
+      <workItem from="1766577442630" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
